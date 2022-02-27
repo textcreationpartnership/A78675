@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties commission granted to Mr. George Le Strange, the betraying Lyn to the enemy. Also, a true relation of the discovery of the plot: as it was attested under the hand of Captaine Leamon, who discovered it; to be presented to the Parliament. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78675</idno>
+            <idno type="STC">Wing C2160</idno>
+            <idno type="STC">Thomason E21_31</idno>
+            <idno type="STC">ESTC R2809</idno>
+            <idno type="EEBO-CITATION">99872186</idno>
+            <idno type="PROQUEST">99872186</idno>
+            <idno type="VID">124611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124611)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E21[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties commission granted to Mr. George Le Strange, the betraying Lyn to the enemy. Also, a true relation of the discovery of the plot: as it was attested under the hand of Captaine Leamon, who discovered it; to be presented to the Parliament. Published by authority.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Mason,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Roger L'Estrange mistakenly named George Le Strange in title.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I) --  Early works to 1800.</term>
+               <term>King's Lynn (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124611:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES COMMISSION GRANTED To Mr. GEORGE LE STRANGE, the betraying <hi>Lyn</hi> to the enemy.</p>
+            <p>ALSO, A TRVE RELATION OF THE DISCOVERY OF THE PLOT: As it was atteſted under the Hand of Captaine <hi>LEAMON,</hi> who diſcove<g ref="char:EOLhyphen"/>red it; to be preſented to the PARLIAMENT.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for R. <hi>Maſon.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_commission">
+            <pb facs="tcp:124611:2"/>
+            <pb n="3" facs="tcp:124611:2"/>
+            <head>His MAJESTIES Commiſſion gran<g ref="char:EOLhyphen"/>ted to Mr. <hi>Roger le Strange,</hi> for the betraying of the Towne of <hi>Lynn</hi> into the hands of the Enemy.</head>
+            <opener>
+               <salute>CHARLES R.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE having received from Our Trusty and Wel<g ref="char:EOLhyphen"/>beloved <hi>Roger le Strange,</hi> declarations of the good affection of divers of our well affected Sub<g ref="char:EOLhyphen"/>jects of Our Counties of <hi>Norfolk</hi> and <hi>Suffolk,</hi> and particularly of Our Town of <hi>Lynne,</hi> as alſo ſome Overtures concerning the reducing of Our ſaid Town of <hi>Lynn,</hi> Wee have thought fit forthwith to re<g ref="char:EOLhyphen"/>turne Our Royall thanks unto Our ſaid well affected Subjects; and particularly to give Our ſaid truſty and wellbeloved <hi>Roger le Strange</hi> theſe encouragements to proceed in our Service, princi<g ref="char:EOLhyphen"/>pally in the worke of reducing the ſaid Towne of <hi>Lynn.</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi> That in caſe that Attempt ſhall be gone through withall, hee the ſaid <hi>Roger le Strange</hi> ſhall have the Government of the Place.</p>
+            <p n="2">
+               <hi>2.</hi> That what engagements ſhall be made unto the Inhabitants
+<pb n="4" facs="tcp:124611:3"/>of the ſaid place, or any other perſon capable of contributing effectually to that Service, by way of reward either in imployment in His Majeſties Navy or Forts, or in moneys, not exceeding the ſumme of <hi>5000.</hi> pounds, the ſervice being performed, ſhall be punctually made good unto them.</p>
+            <p n="3">
+               <hi>3.</hi> That they ſhall in this worke receive what aſſiſtance may be given them from any of Our neereſt Garriſons.</p>
+            <p>And laſtly, that when ever our ſaid Towne ſhall be reduced un<g ref="char:EOLhyphen"/>to Our obedience, we ſhall forthwith ſend th ther ſuch a conſide<g ref="char:EOLhyphen"/>rable Power, as ſhall be ſufficient to relieve and preſerve them, We being at preſent even without this fully reſolved to ſend a con<g ref="char:EOLhyphen"/>ſiderable power to encourage Our faithfull Subjects in thoſe parts, and to regaine Our Rights and Intereſts there.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Oxford, <date>
+                     <hi>this 28. of</hi> November, <hi>1644.</hi>
+                  </date>
+               </dateline>
+               <signed>By His Majeſties Command, George Digby.</signed>
+            </closer>
+         </div>
+         <div type="narrative">
+            <pb n="5" facs="tcp:124611:3"/>
+            <head>A TRUE RELATION Of the diſcovery of the PLOT <hi>AGAINST</hi> LYNNE IN <hi>NORFOLK,</hi> Tueſday the 10<hi rend="sup">th</hi> of <hi>Decemb.</hi> 1644.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Aſter <hi>Roger Le Strange,</hi> third ſonne to Sir <hi>Hamond Le Strange,</hi> ſent for Captaine <hi>Thomas Leamon</hi> of <hi>Lynne</hi> to <hi>Apleton</hi> Hall, to the houſe of one Mr. <hi>Paſton</hi> a Papiſt; And at his comming to him did acquaint him with a deſigne intended by him againſt <hi>Lynne,</hi> for which he ſaid he had a Commiſſion from his Majeſty to
+<pb n="6" facs="tcp:124611:4"/>ſurpriſe the Towne of <hi>Lynne,</hi> which he preſently ſhew<g ref="char:EOLhyphen"/>ed him, and told him, that if he would undertake to be aſſiſtant to him, and raiſe a party within the Towne to effect the deſigne, that he ſhould have one thouſand pound for his paines, and what preferment he would deſire, either in the Towne, or in his Majeſties Navy; and further he told him, that the King did value the ſurpriſing of that Towne, as halfe his Crowne, and that within tenne dayes after certaine notice that the Towne was reduced, that his Majeſty would ſend a ſufficient power to their reliefe, and that thoſe forces ſhould be under the command of the Lord <hi>Goring;</hi> to which Plot the ſaid Captaine <hi>Leamon</hi> for his owne pre<g ref="char:EOLhyphen"/>ſent ſecurity (having taken the Covenant) and well weighing the peace and good of the Common-wealth, for the preſent ſeethingly gave conſent; the night then comming on he departed from him, with promiſe to come to him againe the next day to adviſe further of the deſigne, but preſently haſting to <hi>Lynne,</hi> went to the Governour Collonel <hi>
+                  <g ref="char:V">Ʋ</g>alentine Walton,</hi> and ac<g ref="char:EOLhyphen"/>quainted him with it; who after long debate reſolved the next day, that at the time appointed he ſhould go to him to the ſaid <hi>Apleton</hi> Hall, and take with him a Corpo<g ref="char:EOLhyphen"/>rall of his, clad in Sea-mans habit, who ſeemingly ſhould be a partaker with him, to effect their deſigne, and comming thither the ſaid Maſter <hi>Strange</hi> demanded of Captaine <hi>Leamon</hi> what he was that came with him, who anſwered that he was a man for their turne: and immediately the ſaid Corporall anſwered very diſ<g ref="char:EOLhyphen"/>creetly, ſaying, he was a poor man living in Fiſher-end in <hi>Lyn,</hi> and kept an Ale-houſe, and that he was forty pounds the worſe for the Round heads; Maſter <hi>Strange</hi> replyed, its no matter, for when the deſigne is accom<g ref="char:EOLhyphen"/>pliſhed,
+<pb n="7" facs="tcp:124611:4"/>thou ſhalt have one hundred pound for it, and a Cannoneers place, which he ſeemingly was well plea<g ref="char:EOLhyphen"/>ſed with. But the better to know where the Commiſ<g ref="char:EOLhyphen"/>ſion was, then ſaid Captain <hi>Leamon,</hi> Maſter <hi>Strange</hi> my friend (by the way as I came) demanded of me what ſecurity you had, if in caſe the plot ſhould be diſco<g ref="char:EOLhyphen"/>vered, to ſave them from the Gallowes. Captaine <hi>Lea<g ref="char:EOLhyphen"/>mon</hi> told him you had the Kings Commiſſion, which he deſired to ſee. Maſter <hi>Strange</hi> went immediately to a hole in the Canapy of his bed, and produced the Com<g ref="char:EOLhyphen"/>miſſion, and read it to him; after he had read it, he put it in his pocket: in the interim came Lieutenant <hi>Iohn Stubbing,</hi> Lieutenant to Major <hi>Moll,</hi> with five ſouldiers more, all in the habit of poore Sea-men, appareld as Ship broken men, with a Warrant to attach ſuſpitious perſons, which came begging to the dore, and getting within the Court-yard of the ſaid houſe, being ſo ap<g ref="char:EOLhyphen"/>pointed by the ſaid Governour, as ſoone as they came up to the doore, the Gentlewoman of the houſe came running up to the ſaid Mr. <hi>Strange,</hi> and told him there was fix or ſeaven poore Souldiers come from <hi>Lynn,</hi> a begging; Maſter <hi>Strange</hi> immediatly ſent them downe Twelve pence, and wiſhed them to be gone; And when Miſtris <hi>Paſton</hi> went downe, Maſter <hi>Strange</hi> went to barre the doore, which Captaine <hi>Leamon</hi> ſeeing, gave a winke upon the ſaid Corporall to lay hold upon the ſaid Maſter <hi>Strange,</hi> which done, gave a ſtampe with his foot, by which the Lieutenant knew what hee had to doe, and then Maſter <hi>Strange,</hi> ſee<g ref="char:EOLhyphen"/>ing hee was betrayed, conveyed his Commiſſion to the ſaid Captaine <hi>Leamon,</hi> then the Lieutenant, not taking notice of the ſaid Captaine, as one that ſhould be<g ref="char:EOLhyphen"/>tray the ſaid Maſter <hi>Strange,</hi> did Attach the ſaid Maſter
+<pb n="8" facs="tcp:124611:5"/>
+               <hi>Strange</hi> as an enemy to the Common weale, and de<g ref="char:EOLhyphen"/>manded his name, which he refuſed to mention, and after that required his Commiſſion, which hee de<g ref="char:EOLhyphen"/>nyed to have any: Then the ſaid Lieutenant ſeeing the ſaid Captaine <hi>Leamon,</hi> demanded what hee did there, conſulting againſt the State, telling him hee was a ſtinking knave, and ſearched him for the Com<g ref="char:EOLhyphen"/>miſſion, and took it from him, and ſet a Guard over the ſaid Captaine <hi>Leamon,</hi> and another over the ſaid Maſter <hi>Strange,</hi> and would not ſuffer them to ſpeak each to other, by the way from the ſaid <hi>Apleton-Hall</hi> to <hi>Lynne,</hi> whether they were brought Priſoners to the Governour, with the Commiſſion, which was done by order and conſent of the ſaid Captaine <hi>Lea<g ref="char:EOLhyphen"/>mon,</hi> before the taking of the ſaid Maſter <hi>Strange,</hi> which ſaid Maſter <hi>Strange</hi> is brought up to <hi>London,</hi> and committed to ſafe cuſtody.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
